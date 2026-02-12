@@ -1,0 +1,88 @@
+# Global configuration
+base_path = "assets/sounds/"
+
+# ==========================================
+# Water
+# ==========================================
+[Water.Rain]
+file = "rain.ogg"
+volume = 0.5
+icon = "🌧️"
+
+[Water.Thunderstorm]
+file = "storm.ogg"
+volume = 0.5
+icon = "⛈️"
+
+[Water.Ocean_Waves]
+file = "waves.ogg"
+volume = 0.5
+icon = "🌊"
+
+[Water.Flowing_Stream]
+file = "stream.ogg"
+volume = 0.5
+icon = "💧"
+
+[Water.Boat_Ambiance]
+file = "boat.ogg"
+volume = 0.5
+icon = "⛵"
+
+# ==========================================
+# Nature
+# ==========================================
+[Nature.Birds_Chirping]
+file = "birds.ogg"
+volume = 0.5
+icon = "🐦"
+
+[Nature.Night_Crickets]
+file = "summer-night.ogg"
+volume = 0.5
+icon = "🌙"
+
+[Nature.Wind_Blowing]
+file = "wind.ogg"
+volume = 0.5
+icon = "💨"
+
+# ==========================================
+# Urban
+# ==========================================
+[Urban.Coffee_Shop]
+file = "coffee-shop.ogg"
+volume = 0.5
+icon = "☕"
+
+[Urban.City_Traffic]
+file = "city.ogg"
+volume = 0.5
+icon = "🏙️"
+
+[Urban.Train]
+file = "train.ogg"
+volume = 0.5
+icon = "🚂"
+
+# ==========================================
+# Warmth
+# ==========================================
+[Warmth.Fireplace]
+file = "fireplace.ogg"
+volume = 0.5
+icon = "🔥"
+
+# ==========================================
+# Ambient Noise
+# ==========================================
+["Ambient Noise".White_noise]
+file = "white-noise.ogg"
+volume = 0.5
+icon = "📻"
+
+["Ambient Noise".Pink_noise]
+file = "pink-noise.ogg"
+volume = 0.5
+icon = "🎵"
+
