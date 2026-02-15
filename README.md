@@ -4,12 +4,18 @@ A simple, focused TUI ambient noise generator written in Rust. Focus, relax, or 
 
 Inspired by [Blanket](https://github.com/rafaelmardojai/blanket).
 
+
+https://github.com/user-attachments/assets/2cbfa09f-52fd-4816-939c-ed92435fa605
+
 ## Features
 
 *   **TUI Interface**: Fast, keyboard-centric interface built with Ratatui (mouse is also supported (: ).
 *   **Audio Mixing**: Play multiple sounds simultaneously with individual volume controls.
 *   **Custom Sounds**: Built-in support for downloading sounds from YouTube and other sources via `yt-dlp`.
 *   **Presets**
+
+
+
 
 ## Installation
 
